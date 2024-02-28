@@ -1,5 +1,6 @@
 from setuptools import find_packages,setup
 
+# This is kind of identifier for setup.py in requirements.txt
 HYPHEN_DOT_E="-e ."
 
 def get_requirements(file_path):
