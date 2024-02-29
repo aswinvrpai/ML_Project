@@ -19,7 +19,3 @@ class CustomException(Exception):
     # __str__ is to print() the value
     def __str__(self):
         return self.error_message
-    
-    
-a=Exception()
-a.args()
