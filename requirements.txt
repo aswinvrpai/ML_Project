@@ -2,5 +2,9 @@ pandas
 numpy
 seaborn
 requests
+matplotlib
+jupyter
+sklearn
+dataclasses
 
 -e .
